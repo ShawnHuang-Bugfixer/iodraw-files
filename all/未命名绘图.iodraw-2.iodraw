@@ -138,7 +138,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-57" value="&lt;span style=&quot;text-align: left;&quot;&gt;人工复审&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="770" y="310" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片版本管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;申诉管理机制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="830" y="310" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-55" parent="1">
