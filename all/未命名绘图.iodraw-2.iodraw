@@ -41,7 +41,7 @@
           <mxGeometry x="170" y="290" width="40" height="220" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-19" value="用户注册与登录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="296" width="42" height="170" as="geometry" />
+          <mxGeometry x="-8" y="290" width="27" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
