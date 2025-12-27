@@ -36,7 +36,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;用户注册与登录&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry y="310" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;用户注册与登录&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;身份认证与授权&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
