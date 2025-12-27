@@ -87,7 +87,7 @@
             <mxPoint x="200" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;媒体管理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;上传与存储（图片 / 视频）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
@@ -124,6 +124,45 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="240" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;媒体管理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;上传与存储（图片 / 视频）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-56" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体基础处理（裁剪、旋转、格式转换等）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-57" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片协同编辑&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片版本管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-57" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint" />
+            <mxPoint x="520" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-58" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint" />
+            <mxPoint x="580" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-56" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
