@@ -57,8 +57,8 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;公共 / 私人 / 团队空间管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="195" y="310" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;公共 / 私人 / 团队空间管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="205" y="320" width="40" height="170" as="geometry" />
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;团队空间成员与权限控制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
