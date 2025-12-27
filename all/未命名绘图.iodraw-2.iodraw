@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-1" value="&lt;span style=&quot;font-size: 10.5pt; font-family: 楷体_GB2312;&quot;&gt;&lt;b&gt;基于深度学习的图像超分辨率重构系统&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="60" width="250" height="60" as="geometry" />
+          <mxGeometry x="395" y="60" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IYOA-PiC_wtv27vzp2Ui-2" target="IYOA-PiC_wtv27vzp2Ui-29">
           <mxGeometry relative="1" as="geometry">
@@ -190,6 +190,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="240" as="sourcePoint" />
             <mxPoint x="920" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
