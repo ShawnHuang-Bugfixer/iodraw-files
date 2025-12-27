@@ -90,7 +90,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;空间管理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;公共 / 私人 / 团队空间管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;上传与存储（图片 / 视频）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-47" value="&lt;span style=&quot;text-align: left;&quot;&gt;团队空间成员与权限控制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
