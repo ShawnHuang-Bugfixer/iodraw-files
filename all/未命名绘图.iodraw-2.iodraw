@@ -31,7 +31,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-8" value="# 系统功能模块划分&#xa;&#xa;## 1. 用户管理模块&#xa;- 用户注册与登录&#xa;- 身份认证与授权&#xa;- 账户安全与系统风控&#xa;&#xa;## 2. 空间管理模块&#xa;- 公共 / 私人 / 团队空间管理&#xa;- 团队空间成员与权限控制&#xa;- 媒体的空间隔离管理&#xa;- 媒体的访问权限控制&#xa;&#xa;## 3. 媒体管理模块&#xa;- 上传与存储（图片 / 视频）&#xa;- 媒体基础处理（裁剪、旋转、格式转换等）&#xa;- 图片协同编辑&#xa;- 图片版本管理&#xa;&#xa;## 4. 审核模块&#xa;- 审核状态机管理&#xa;- AI 自动机审&#xa;- 人工复审&#xa;- 申诉管理机制&#xa;&#xa;## 5. 超分辨率处理模块&#xa;- 超分任务管理与调度&#xa;- 媒体预处理管理&#xa;- 深度学习模型推理服务&#xa;- 超分结果生成与管理&#xa;&#xa;## 6. 消息推送模块&#xa;- 在线消息实时推送&#xa;- 离线消息订阅与拉取&#xa;- 审核结果通知&#xa;- 超分任务状态通知" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="620" width="270" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-9" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-9" value="&lt;pre&gt;测试&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="290" width="40" height="220" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
