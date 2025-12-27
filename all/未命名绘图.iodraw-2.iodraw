@@ -93,8 +93,8 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;上传与存储（图片 / 视频）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-47" value="&lt;span style=&quot;text-align: left;&quot;&gt;团队空间成员与权限控制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="470" y="310" width="40" height="170" as="geometry" />
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-47" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体基础处理（裁剪、旋转、格式转换等）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-48" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体的空间隔离管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="40" height="170" as="geometry" />
