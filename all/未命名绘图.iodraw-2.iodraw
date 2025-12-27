@@ -27,7 +27,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;消息推送模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="220" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-8" value="&lt;br&gt;## 3. 媒体管理模块&lt;br&gt;- 上传与存储（图片 / 视频）&lt;br&gt;- 媒体基础处理（裁剪、旋转、格式转换等）&lt;br&gt;- 图片协同编辑&lt;br&gt;- 图片版本管理&lt;br&gt;&lt;br&gt;## 4. 审核模块&lt;br&gt;- 审核状态机管理&lt;br&gt;- AI 自动机审&lt;br&gt;- 人工复审&lt;br&gt;- 申诉管理机制&lt;br&gt;&lt;br&gt;## 5. 超分辨率处理模块&lt;br&gt;- 超分任务管理与调度&lt;br&gt;- 媒体预处理管理&lt;br&gt;- 深度学习模型推理服务&lt;br&gt;- 超分结果生成与管理&lt;br&gt;&lt;br&gt;## 6. 消息推送模块&lt;br&gt;- 在线消息实时推送&lt;br&gt;- 离线消息订阅与拉取&lt;br&gt;- 审核结果通知&lt;br&gt;- 超分任务状态通知" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-8" value="&lt;br&gt;## 4. 审核模块&lt;br&gt;- 审核状态机管理&lt;br&gt;- AI 自动机审&lt;br&gt;- 人工复审&lt;br&gt;- 申诉管理机制&lt;br&gt;&lt;br&gt;## 5. 超分辨率处理模块&lt;br&gt;- 超分任务管理与调度&lt;br&gt;- 媒体预处理管理&lt;br&gt;- 深度学习模型推理服务&lt;br&gt;- 超分结果生成与管理&lt;br&gt;&lt;br&gt;## 6. 消息推送模块&lt;br&gt;- 在线消息实时推送&lt;br&gt;- 离线消息订阅与拉取&lt;br&gt;- 审核结果通知&lt;br&gt;- 超分任务状态通知" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="620" width="270" height="540" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;用户注册与登录&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
@@ -87,7 +87,7 @@
             <mxPoint x="200" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;空间管理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;上传与存储（图片 / 视频）&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
