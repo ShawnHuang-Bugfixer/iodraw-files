@@ -117,7 +117,7 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;审核模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;超分辨率处理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;审核状态机管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
