@@ -60,8 +60,11 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;团队空间成员与权限控制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;团队空间成员与权限控制&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体的空间隔离管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-38" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体的空间隔离管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
