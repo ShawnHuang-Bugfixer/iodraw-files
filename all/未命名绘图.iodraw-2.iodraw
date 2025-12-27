@@ -39,13 +39,8 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;身份认证与授权&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYOA-PiC_wtv27vzp2Ui-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-31" value="&lt;span style=&quot;text-align: left;&quot;&gt;账户安全与系统风控&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="150" y="310" width="40" height="170" as="geometry" />
+          <mxGeometry x="100" y="310" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
