@@ -18,7 +18,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;空间管理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="200" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;用户注册与登录&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;用户注册与登录&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-40" y="310" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;身份认证与授权&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;超分辨率处理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;超分辨率处理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="680" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;超分任务管理与调度&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
@@ -153,7 +153,7 @@
             <mxPoint x="680" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;消息推送模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;消息推送模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="920" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-73" value="&lt;span style=&quot;text-align: left;&quot;&gt;在线消息实时推送&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
