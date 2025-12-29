@@ -87,7 +87,7 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-48" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片协同编辑&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="530" y="310" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-49" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片版本管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-49" value="&lt;span style=&quot;text-align: left;&quot;&gt;图片版本管理&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="590" y="310" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="IYOA-PiC_wtv27vzp2Ui-45" target="IYOA-PiC_wtv27vzp2Ui-46" edge="1">
@@ -117,16 +117,16 @@
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;超分辨率处理模块&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="680" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;超分任务管理与调度&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;超分任务管理与调度&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="650" y="310" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-56" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体预处理管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-56" value="&lt;span style=&quot;text-align: left;&quot;&gt;媒体预处理管理&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="710" y="310" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-57" value="&lt;span style=&quot;text-align: left;&quot;&gt;深度学习模型推理服务&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-57" value="&lt;span style=&quot;text-align: left;&quot;&gt;深度学习模型推理服务&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="IYOA-PiC_wtv27vzp2Ui-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;超分结果生成与管理&lt;/span&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="IYOA-PiC_wtv27vzp2Ui-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;超分结果生成与管理&lt;/span&gt;" style="text;strokeColor=#001DBC;align=center;fillColor=#0050ef;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="830" y="310" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IYOA-PiC_wtv27vzp2Ui-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="IYOA-PiC_wtv27vzp2Ui-54" target="IYOA-PiC_wtv27vzp2Ui-55" edge="1">
