@@ -31,7 +31,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-14" value="服务中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="355" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-16" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-25" value="日志记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="570" y="348.75" width="60" height="202.5" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="40" height="260" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-27" value="权限控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
