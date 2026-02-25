@@ -28,7 +28,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-13" value="统一 API 网关（认证、限流）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-14" value="服务中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-14" value="服务中台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-27" value="权限控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="630" y="348.75" width="60" height="202.5" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-28" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-28" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="505" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -88,7 +88,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-35" value="AI 审核服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-36" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-36" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="655" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
