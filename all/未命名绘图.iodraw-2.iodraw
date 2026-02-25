@@ -106,8 +106,14 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-45" value="redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="239.16" y="687.17" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-46" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409.99" y="687.17" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-47" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419.99" y="697.17" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
