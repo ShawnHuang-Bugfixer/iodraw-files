@@ -10,7 +10,7 @@
         <mxCell id="rgJeHjqjlWh5MmTjDURE-4" value="前端应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-8" value="超分图库管理台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-8" value="超分图库管理台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="85" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-9" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
