@@ -11,7 +11,7 @@
           <mxGeometry x="289" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-9" value="管理员后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-10" value="服务接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="80" height="40" as="geometry" />
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-43" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/DC_OS.svg;" vertex="1" parent="1">
           <mxGeometry x="590" y="637.17" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rgJeHjqjlWh5MmTjDURE-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-45" value="redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="239.16" y="687.17" width="60" height="30" as="geometry" />
