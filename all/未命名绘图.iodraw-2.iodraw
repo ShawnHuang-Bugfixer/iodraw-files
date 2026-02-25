@@ -53,13 +53,13 @@
           <mxGeometry x="580" y="317.5" width="40" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-25" value="日志记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="570" y="347.5" width="60" height="202.5" as="geometry" />
+          <mxGeometry x="570" y="348.75" width="60" height="202.5" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="40" height="260" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-27" value="权限控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="630" y="347.5" width="60" height="55" as="geometry" />
+          <mxGeometry x="630" y="348.75" width="60" height="202.5" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-28" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="505" width="80" height="40" as="geometry" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-35" value="AI 审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-36" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="515" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
