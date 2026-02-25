@@ -74,7 +74,7 @@
           <mxGeometry x="210" y="475" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-31" value="消息推送服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="310" y="475" width="80" height="30" as="geometry" />
+          <mxGeometry x="329.99" y="475" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-32" value="邮件服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="450" y="475" width="80" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="330" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-35" value="AI 审核服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="450" y="515" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-36" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="655" width="80" height="40" as="geometry" />
