@@ -92,7 +92,10 @@
           <mxGeometry x="200" y="620" width="480" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="250" y="654" width="50" height="42" as="geometry" />
+          <mxGeometry x="225" y="653" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="642" width="48" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
