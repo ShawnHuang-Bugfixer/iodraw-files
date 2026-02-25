@@ -65,7 +65,7 @@
           <mxGeometry x="630" y="348.75" width="60" height="202.5" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-28" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="505" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="485" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="441.25" width="360" height="138.75" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-63" value="消息队列服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="329.99" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-64" value="消息队列服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="339.99" y="540" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
