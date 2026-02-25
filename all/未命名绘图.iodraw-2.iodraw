@@ -92,10 +92,13 @@
           <mxGeometry x="200" y="620" width="480" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="225" y="660" width="41.67" height="35" as="geometry" />
+          <mxGeometry x="229.17" y="654.16" width="41.67" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rgJeHjqjlWh5MmTjDURE-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="654.16" width="29.75" height="39.67" as="geometry" />
+          <mxGeometry x="355.13" y="651.8199999999999" width="29.75" height="39.67" as="geometry" />
+        </mxCell>
+        <mxCell id="rgJeHjqjlWh5MmTjDURE-40" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
