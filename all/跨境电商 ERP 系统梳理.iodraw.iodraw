@@ -57,16 +57,6 @@
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-39" value="出运清单&lt;div&gt;同步&lt;/div&gt;&lt;div&gt;入库单前提&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="2">
           <mxGeometry x="25" y="960" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OeIrW5mYUfOqZH1RLwlc-40" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" edge="1" parent="2" target="OeIrW5mYUfOqZH1RLwlc-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="265.0800000000004" y="992" as="sourcePoint" />
-            <mxPoint x="384.0800000000004" y="981" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="319.0800000000004" y="1000" />
-              <mxPoint x="269.0800000000004" y="950" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3" value="ERP" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="445" y="130" width="280" height="1870" as="geometry" />
         </mxCell>
@@ -286,6 +276,16 @@
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-107" target="OeIrW5mYUfOqZH1RLwlc-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-40" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" source="OeIrW5mYUfOqZH1RLwlc-39" target="OeIrW5mYUfOqZH1RLwlc-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430.0800000000004" y="1122" as="sourcePoint" />
+            <mxPoint x="549.0800000000004" y="1111" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1190" />
+              <mxPoint x="500" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
