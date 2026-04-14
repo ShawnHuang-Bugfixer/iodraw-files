@@ -48,6 +48,9 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--15" value="超分任务数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="37.5" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--20" value="资源处理与任务提交" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
