@@ -33,6 +33,9 @@
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-68" value="保存新品 SKU 等数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+          <mxGeometry x="90" y="312" width="100" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-41" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
