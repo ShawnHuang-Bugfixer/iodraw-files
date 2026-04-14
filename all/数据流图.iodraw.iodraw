@@ -15,7 +15,7 @@
         <mxCell id="DYk-G_qttayWoGUFqrJS-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-2" value="图像超分辨率重构系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DYk-G_qttayWoGUFqrJS-2" value="图像超分辨率重构系统" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -36,7 +36,7 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="地分辨图像存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="低分辨图像存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="271.25" y="90" width="37.5" height="60" as="geometry" />
         </mxCell>
       </root>
