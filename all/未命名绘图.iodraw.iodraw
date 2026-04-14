@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="idle" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="60" y="122" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="user action" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-47" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1014.5" y="138" width="280" height="570" as="geometry" />
+          <mxGeometry x="1284.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-48" value="process&#xa;command" style="" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="90" y="405" width="110" height="50" as="geometry" />
