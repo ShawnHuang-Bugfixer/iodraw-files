@@ -43,7 +43,7 @@
           <mxGeometry x="286.25" y="47.5" width="37.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--11" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--15" value="超分任务数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="37.5" height="120" as="geometry" />
