@@ -12,9 +12,6 @@
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-45" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="2">
-          <mxGeometry x="100" y="782" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
