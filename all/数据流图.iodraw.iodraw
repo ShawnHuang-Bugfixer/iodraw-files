@@ -67,6 +67,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--20" target="pVCKQLNNXWw6quV8cqm--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--20" value="超分任务调度" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="130" height="40" as="geometry" />
         </mxCell>
