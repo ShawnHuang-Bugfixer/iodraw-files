@@ -65,8 +65,16 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-109" value="建立仓库 SKU 和新品 SKU 映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1592" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="t_UXIdDq_0gDYaZlW1lV-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140.52941176470586" y="1752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-112" value="刊登商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1672" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-114" value="刊登商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="90" y="1752" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="1162" as="geometry" />
