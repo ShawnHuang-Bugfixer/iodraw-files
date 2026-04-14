@@ -60,14 +60,6 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-65" value="保存新品 SKU 等数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="90" y="232" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-109" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140.52941176470586" y="1672" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-109" value="建立仓库 SKU 和新品 SKU 映射" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
-          <mxGeometry x="90" y="1592" width="100" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140.52941176470586" y="1752" as="targetPoint" />
@@ -206,11 +198,6 @@
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-107" value="上架入库存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="t_UXIdDq_0gDYaZlW1lV-91" vertex="1">
           <mxGeometry x="90" y="1430" width="100" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-107" target="t_UXIdDq_0gDYaZlW1lV-109" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715.5" y="1721" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-141" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-139" target="t_UXIdDq_0gDYaZlW1lV-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
