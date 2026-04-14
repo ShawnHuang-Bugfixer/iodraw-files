@@ -54,7 +54,7 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-64" value="商品规划&lt;div&gt;产品调研&lt;/div&gt;&lt;div&gt;竞品分析&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="2">
           <mxGeometry x="205" y="46" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-139" value="关键在于建立映射：&lt;div&gt;仓库 SKU - 新品 SKU -&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="2">
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-139" value="关键在于建立映射：&lt;div&gt;仓库 SKU - 新品 SKU -&amp;nbsp; 平台 SKU&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="2">
           <mxGeometry x="20" y="1650" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3" value="ERP" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
