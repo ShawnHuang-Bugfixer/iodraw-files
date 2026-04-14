@@ -60,6 +60,9 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-80" value="大货样生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
           <mxGeometry x="90" y="632" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-81" value="大货样生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+          <mxGeometry x="100" y="642" width="100" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-41" value="QA(Quality Assurance)" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
