@@ -144,13 +144,8 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-94" value="运输" style="rounded=0;whiteSpace=wrap;html=1;" parent="t_UXIdDq_0gDYaZlW1lV-47" vertex="1">
           <mxGeometry x="92.75" y="1190" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t_UXIdDq_0gDYaZlW1lV-47" target="t_UXIdDq_0gDYaZlW1lV-99" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="142.75" y="1468.0000000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-99" value="提前 15 天发起预约入库单" style="rounded=0;whiteSpace=wrap;html=1;" parent="t_UXIdDq_0gDYaZlW1lV-47" vertex="1">
-          <mxGeometry x="92.75" y="1510" width="100" height="38" as="geometry" />
+          <mxGeometry x="92.75" y="1270" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-119" value="资质筛查&lt;div&gt;能力评估&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="t_UXIdDq_0gDYaZlW1lV-47" vertex="1">
           <mxGeometry x="67.75" y="310" width="144.5" height="50" as="geometry" />
@@ -211,9 +206,6 @@
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-136" value="箱号&lt;div&gt;货品信息&lt;/div&gt;&lt;div&gt;SKU 信息&lt;/div&gt;&lt;div&gt;等&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="t_UXIdDq_0gDYaZlW1lV-91" vertex="1">
           <mxGeometry x="84.57000000000001" y="1166" width="110.87" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-99" target="t_UXIdDq_0gDYaZlW1lV-100" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-107" target="t_UXIdDq_0gDYaZlW1lV-109" edge="1">
           <mxGeometry relative="1" as="geometry">
