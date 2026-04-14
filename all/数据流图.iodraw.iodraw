@@ -36,7 +36,7 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="地分辨图像存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="271.25" y="90" width="37.5" height="60" as="geometry" />
         </mxCell>
       </root>
