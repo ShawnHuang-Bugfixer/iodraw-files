@@ -92,11 +92,6 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--39" target="pVCKQLNNXWw6quV8cqm--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pVCKQLNNXWw6quV8cqm--48" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;horizontal=1;" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--47">
-          <mxGeometry x="0.6446" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="61" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--39" value="结果管理与查询" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="130" height="40" as="geometry" />
         </mxCell>
@@ -105,6 +100,9 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--46" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--49" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BB%BB%E5%8A%A1%E6%8E%A8%E7%90%86%E7%BB%93%E6%9E%9C%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22520%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
