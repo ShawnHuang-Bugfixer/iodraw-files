@@ -28,7 +28,7 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--23" value="任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--22">
           <mxGeometry x="-0.2494" y="5" relative="1" as="geometry">
-            <mxPoint x="4" y="5" as="offset" />
+            <mxPoint x="-5" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--8" value="资源处理与任务提交" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--15" value="超分任务数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="286.25" y="240" width="37.5" height="120" as="geometry" />
+          <mxGeometry x="286.25" y="260" width="37.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--20" value="超分任务调度" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="130" height="40" as="geometry" />
