@@ -23,6 +23,14 @@
             <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DYk-G_qttayWoGUFqrJS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYk-G_qttayWoGUFqrJS-2" target="DYk-G_qttayWoGUFqrJS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYk-G_qttayWoGUFqrJS-23" value="重构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DYk-G_qttayWoGUFqrJS-22">
+          <mxGeometry x="-0.1803" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-2" value="图像超分辨率重构系统" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="130" height="40" as="geometry" />
         </mxCell>
