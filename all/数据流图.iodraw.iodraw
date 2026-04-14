@@ -45,6 +45,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--11" target="pVCKQLNNXWw6quV8cqm--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--41" value="任务推理结果/进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--40">
+          <mxGeometry x="-0.1416" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--11" value="Python 推理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="440" width="130" height="40" as="geometry" />
         </mxCell>
@@ -70,7 +78,7 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--20" target="pVCKQLNNXWw6quV8cqm--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pVCKQLNNXWw6quV8cqm--38" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--36">
+        <mxCell id="pVCKQLNNXWw6quV8cqm--38" value="任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--36">
           <mxGeometry x="-0.0232" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,8 +86,11 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--20" value="超分任务调度" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pVCKQLNNXWw6quV8cqm--39" value="" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="pVCKQLNNXWw6quV8cqm--39" value="结果管理与查询" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--42" value="超分任务数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="37.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
