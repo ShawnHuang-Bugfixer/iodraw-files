@@ -114,8 +114,8 @@
             <mxPoint x="-92" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-91" value="物流" style="swimlane;whiteSpace=wrap;startSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1014.5" y="138" width="280" height="1162" as="geometry" />
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-91" value="海外仓" style="swimlane;whiteSpace=wrap;startSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1284.5" y="128" width="280" height="1162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
