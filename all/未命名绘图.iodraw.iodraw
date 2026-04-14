@@ -21,6 +21,12 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-55" value="建立 SKU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="90" y="182" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="192" as="sourcePoint" />
+            <mxPoint x="116" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
@@ -33,8 +39,12 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-47" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1284.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-59" target="t_UXIdDq_0gDYaZlW1lV-54">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-59" target="t_UXIdDq_0gDYaZlW1lV-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-59" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="80" height="100" as="geometry" />
