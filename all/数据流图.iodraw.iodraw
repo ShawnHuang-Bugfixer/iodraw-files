@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pVCKQLNNXWw6quV8cqm--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--3" target="pVCKQLNNXWw6quV8cqm--8">
+        <mxCell id="pVCKQLNNXWw6quV8cqm--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--3" target="pVCKQLNNXWw6quV8cqm--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--2" value="上述图像/提交超分请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--1">
@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--44" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--43">
           <mxGeometry x="-0.2093" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="42" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--39" value="结果管理与查询" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
