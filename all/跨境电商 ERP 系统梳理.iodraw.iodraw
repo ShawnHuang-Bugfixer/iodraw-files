@@ -101,6 +101,9 @@
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-27" value="出运清单同步 ERP入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1190" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="OeIrW5mYUfOqZH1RLwlc-30" target="OeIrW5mYUfOqZH1RLwlc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-30" value="计算入库成本&lt;div&gt;（费用、头程、关税等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1500" width="100" height="50" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
           <mxGeometry x="90" y="1270" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-36" value="确认入库海狼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="90" y="1580" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="1590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1952" as="geometry" />
