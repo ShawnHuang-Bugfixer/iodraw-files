@@ -151,6 +151,16 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-119" value="资质筛查&lt;div&gt;能力评估&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="67.75" y="310" width="144.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-145" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" edge="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235.58000000000038" y="1302" as="sourcePoint" />
+            <mxPoint x="354.5800000000004" y="1291" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289.5800000000004" y="1310" />
+              <mxPoint x="239.58000000000038" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-55" target="t_UXIdDq_0gDYaZlW1lV-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -240,6 +250,16 @@
             <Array as="points">
               <mxPoint x="1004.0800000000004" y="490" />
               <mxPoint x="954.0800000000004" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-144" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-92" target="t_UXIdDq_0gDYaZlW1lV-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220.0800000000004" y="1112" as="sourcePoint" />
+            <mxPoint x="1339.0800000000004" y="1101" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1274.0800000000004" y="1120" />
+              <mxPoint x="1224.0800000000004" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
