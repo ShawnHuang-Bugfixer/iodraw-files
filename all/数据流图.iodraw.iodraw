@@ -15,31 +15,8 @@
         <mxCell id="DYk-G_qttayWoGUFqrJS-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DYk-G_qttayWoGUFqrJS-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-2" value="超分辨率重构系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="150" as="sourcePoint" />
-            <mxPoint x="250" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="110" as="sourcePoint" />
-            <mxPoint x="330" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="150" as="sourcePoint" />
-            <mxPoint x="330" y="150" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,8 +36,8 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-14" value="低分辨率图片、视频" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="115" width="80" height="30" as="geometry" />
+        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
