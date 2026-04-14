@@ -68,20 +68,16 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-112" value="刊登商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="90" y="1672" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-114" target="t_UXIdDq_0gDYaZlW1lV-115" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1832" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-114" value="建立平台 SKU 和新品 SKU 映射" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="90" y="1752" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-115" target="t_UXIdDq_0gDYaZlW1lV-117" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-115" value="新建 ERP 系统入库单入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
-          <mxGeometry x="90" y="1832" width="100" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-117" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
-          <mxGeometry x="125" y="1905" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="1830" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-64" value="商品规划&lt;div&gt;产品调研&lt;/div&gt;&lt;div&gt;竞品分析&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="3" vertex="1">
           <mxGeometry x="60" y="70" width="160" height="54" as="geometry" />
