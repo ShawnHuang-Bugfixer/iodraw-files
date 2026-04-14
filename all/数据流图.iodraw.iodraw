@@ -57,8 +57,8 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="205" width="60" height="30" as="geometry" />
+        <mxCell id="DYk-G_qttayWoGUFqrJS-14" value="低分辨率图片、视频" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="205" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
