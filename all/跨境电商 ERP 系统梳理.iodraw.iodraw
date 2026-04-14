@@ -103,7 +103,7 @@
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-21" value="建立仓库SKU与产品SKU的关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1030" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="OeIrW5mYUfOqZH1RLwlc-27" value="出运清单同步入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-27" value="出运清单同步 ERP入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1190" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-30" value="计算入库成本&lt;div&gt;（费用、头程、关税等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
