@@ -154,7 +154,7 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-146" value="生产前样品" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="67.75" y="390" width="144.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-161" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-161" value="&lt;div style=&quot;text-align: start;&quot;&gt;大货生产抽取的样品&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="67.75" y="630" width="144.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-55" target="t_UXIdDq_0gDYaZlW1lV-65">
