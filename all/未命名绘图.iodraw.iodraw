@@ -76,6 +76,9 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-114" value="建立平台 SKU 和新品 SKU 映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1752" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-115" value="建立平台 SKU 和新品 SKU 映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="90" y="1832" width="100" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="1162" as="geometry" />
         </mxCell>
