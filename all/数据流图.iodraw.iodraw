@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--41" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--40">
           <mxGeometry x="-0.1416" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--11" value="Python 推理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,7 +98,7 @@
           <mxGeometry x="240" y="560" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--42" value="高分辨图像" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="286.25" y="640" width="37.5" height="120" as="geometry" />
+          <mxGeometry x="486.25" y="390" width="37.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
