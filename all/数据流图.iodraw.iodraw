@@ -15,29 +15,19 @@
         <mxCell id="DYk-G_qttayWoGUFqrJS-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DYk-G_qttayWoGUFqrJS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYk-G_qttayWoGUFqrJS-2" target="DYk-G_qttayWoGUFqrJS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYk-G_qttayWoGUFqrJS-20" value="记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DYk-G_qttayWoGUFqrJS-19">
+          <mxGeometry x="0.1732" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-2" value="图像超分辨率重构系统" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="330" as="sourcePoint" />
-            <mxPoint x="470" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="290" as="sourcePoint" />
-            <mxPoint x="550" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="330" as="sourcePoint" />
-            <mxPoint x="550" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="低分辨图像存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="271.25" y="90" width="37.5" height="60" as="geometry" />
+        <mxCell id="DYk-G_qttayWoGUFqrJS-18" value="低分辨图像" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="60" width="37.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
