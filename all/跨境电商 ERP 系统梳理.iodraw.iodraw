@@ -95,10 +95,10 @@
           <mxGeometry x="60" y="70" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-20" value="维护仓库服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="90" y="1030" width="100" height="38" as="geometry" />
+          <mxGeometry x="90" y="956" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-21" value="建立仓库SKU与产品SKU的关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="90" y="1110" width="100" height="38" as="geometry" />
+          <mxGeometry x="90" y="1030" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1952" as="geometry" />
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-136" value="箱号&lt;div&gt;货品信息&lt;/div&gt;&lt;div&gt;SKU 信息&lt;/div&gt;&lt;div&gt;等&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="t_UXIdDq_0gDYaZlW1lV-91" vertex="1">
           <mxGeometry x="84.57000000000001" y="1166" width="110.87" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-90" target="t_UXIdDq_0gDYaZlW1lV-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-99" target="t_UXIdDq_0gDYaZlW1lV-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
