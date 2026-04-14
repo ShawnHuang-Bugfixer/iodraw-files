@@ -14,13 +14,13 @@
           <mxGeometry x="280" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0m4SQ793dcdJkMsm84dB-4" value="媒体管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0m4SQ793dcdJkMsm84dB-5" value="超分处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0m4SQ793dcdJkMsm84dB-6" value="消息推送模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0m4SQ793dcdJkMsm84dB-7" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
