@@ -87,8 +87,11 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-94" value="集装箱装货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="90" y="1032" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-96" value="集装箱装货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-96" value="计算计费重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="90" y="1111" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-97" value="计算计费重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
+          <mxGeometry x="100" y="1121" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-64" value="商品规划&lt;div&gt;产品调研&lt;/div&gt;&lt;div&gt;竞品分析&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="40" y="199" width="80" height="100" as="geometry" />
