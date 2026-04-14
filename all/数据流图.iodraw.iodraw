@@ -89,7 +89,7 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--39" target="pVCKQLNNXWw6quV8cqm--42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pVCKQLNNXWw6quV8cqm--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--51" target="pVCKQLNNXWw6quV8cqm--3">
+        <mxCell id="pVCKQLNNXWw6quV8cqm--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--39" target="pVCKQLNNXWw6quV8cqm--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--39" value="结果管理与查询" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
@@ -101,14 +101,8 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--46" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="pVCKQLNNXWw6quV8cqm--53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--39" target="pVCKQLNNXWw6quV8cqm--51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="580" as="sourcePoint" />
-            <mxPoint x="589" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--51" value="任务推理结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="583.25" y="380" width="11" height="30" as="geometry" />
+          <mxGeometry x="559" y="370" width="11" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
