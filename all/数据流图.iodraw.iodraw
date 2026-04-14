@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--33" value="任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--32">
           <mxGeometry x="-0.2275" y="2" relative="1" as="geometry">
-            <mxPoint x="48" as="offset" />
+            <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--11" target="pVCKQLNNXWw6quV8cqm--39">
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--11" value="Python 推理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="-10" y="440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--15" target="pVCKQLNNXWw6quV8cqm--20">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,7 @@
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--31" value="待处理任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pVCKQLNNXWw6quV8cqm--30">
           <mxGeometry x="0.115" y="-2" relative="1" as="geometry">
-            <mxPoint x="39" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVCKQLNNXWw6quV8cqm--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVCKQLNNXWw6quV8cqm--20" target="pVCKQLNNXWw6quV8cqm--15">
