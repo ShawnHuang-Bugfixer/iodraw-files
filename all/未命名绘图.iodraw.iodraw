@@ -16,16 +16,16 @@
           <mxGeometry x="100" y="512" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+          <mxGeometry x="444.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Thread 3" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+          <mxGeometry x="724.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-41" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1004.5" y="128" width="280" height="570" as="geometry" />
+          <mxGeometry x="1004.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-47" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1284.5" y="128" width="280" height="692" as="geometry" />
+          <mxGeometry x="1284.5" y="128" width="280" height="852" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
