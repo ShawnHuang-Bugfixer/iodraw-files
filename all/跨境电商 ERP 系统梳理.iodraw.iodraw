@@ -118,7 +118,7 @@
             <mxPoint x="139.9411764705883" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeIrW5mYUfOqZH1RLwlc-36" value="确认入库海狼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-36" value="确认入库海狼 ERP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
