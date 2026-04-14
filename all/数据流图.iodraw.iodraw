@@ -106,6 +106,9 @@
         <mxCell id="pVCKQLNNXWw6quV8cqm--46" value="任务推理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="620" as="geometry" />
         </mxCell>
+        <mxCell id="pVCKQLNNXWw6quV8cqm--55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
