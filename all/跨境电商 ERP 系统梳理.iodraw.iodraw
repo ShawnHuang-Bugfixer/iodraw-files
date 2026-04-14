@@ -148,9 +148,6 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-99" value="预约入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
           <mxGeometry x="90" y="1352" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-134" value="资质筛查&lt;div&gt;能力评估&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
-          <mxGeometry x="75.5" y="410" width="60" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-55" target="t_UXIdDq_0gDYaZlW1lV-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -206,6 +203,9 @@
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-99" target="t_UXIdDq_0gDYaZlW1lV-100">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-134" value="资质筛查&lt;div&gt;能力评估&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="550" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
