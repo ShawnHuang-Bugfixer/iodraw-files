@@ -113,7 +113,7 @@
           <mxGeometry x="205.5" y="286" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-47" value="物流" style="swimlane;whiteSpace=wrap;startSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1004.5" y="130" width="360" height="1952" as="geometry" />
+          <mxGeometry x="1004.5" y="130" width="400" height="1952" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t_UXIdDq_0gDYaZlW1lV-47" source="t_UXIdDq_0gDYaZlW1lV-92" target="t_UXIdDq_0gDYaZlW1lV-94">
           <mxGeometry relative="1" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="205.5" y="1166" width="154.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-137" value="计费重 =&amp;nbsp; max(实际重，体积重)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-47">
-          <mxGeometry x="205.5" y="1111" width="154.5" height="39" as="geometry" />
+          <mxGeometry x="205.5" y="1111" width="194.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-55" target="t_UXIdDq_0gDYaZlW1lV-65">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-91" value="海外仓" style="swimlane;whiteSpace=wrap;startSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1364.5" y="130" width="280" height="1952" as="geometry" />
+          <mxGeometry x="1404.5" y="130" width="280" height="1952" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t_UXIdDq_0gDYaZlW1lV-91" source="t_UXIdDq_0gDYaZlW1lV-100" target="t_UXIdDq_0gDYaZlW1lV-107">
           <mxGeometry relative="1" as="geometry" />
