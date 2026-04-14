@@ -206,7 +206,7 @@
           <mxGeometry x="36.379999999999995" y="1042" width="207.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-136" value="箱号&lt;div&gt;货品信息&lt;/div&gt;&lt;div&gt;SKU 信息&lt;/div&gt;&lt;div&gt;等&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="t_UXIdDq_0gDYaZlW1lV-91">
-          <mxGeometry x="84.56" y="1240" width="110.87" height="80" as="geometry" />
+          <mxGeometry x="84.57000000000001" y="1166" width="110.87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-90" target="t_UXIdDq_0gDYaZlW1lV-92">
           <mxGeometry relative="1" as="geometry" />
@@ -249,12 +249,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_UXIdDq_0gDYaZlW1lV-145" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-98" target="t_UXIdDq_0gDYaZlW1lV-136">
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-145" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-97" target="t_UXIdDq_0gDYaZlW1lV-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240.0800000000004" y="1432" as="sourcePoint" />
             <mxPoint x="1359.0800000000004" y="1421" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1294.0800000000004" y="1440" />
+              <mxPoint x="1259" y="1289" />
               <mxPoint x="1244.0800000000004" y="1390" />
             </Array>
           </mxGeometry>
