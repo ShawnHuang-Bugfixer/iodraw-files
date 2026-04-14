@@ -94,8 +94,11 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-64" value="商品规划&lt;div&gt;产品调研&lt;/div&gt;&lt;div&gt;竞品分析&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="3" vertex="1">
           <mxGeometry x="60" y="70" width="160" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="OeIrW5mYUfOqZH1RLwlc-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-20" value="维护仓库服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="90" y="1030" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="OeIrW5mYUfOqZH1RLwlc-21" value="维护仓库服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="100" y="1040" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1952" as="geometry" />
