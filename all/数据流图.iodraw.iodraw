@@ -23,20 +23,20 @@
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="240" as="sourcePoint" />
-            <mxPoint x="440" y="200" as="targetPoint" />
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="250" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="200" as="sourcePoint" />
-            <mxPoint x="520" y="200" as="targetPoint" />
+            <mxPoint x="250" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="240" as="sourcePoint" />
-            <mxPoint x="520" y="240" as="targetPoint" />
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="330" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DYk-G_qttayWoGUFqrJS-14" value="低分辨率图片、视频" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="205" width="80" height="30" as="geometry" />
+          <mxGeometry x="250" y="115" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
