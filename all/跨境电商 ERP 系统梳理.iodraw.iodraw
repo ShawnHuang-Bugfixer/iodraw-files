@@ -94,6 +94,16 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-117" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="3">
           <mxGeometry x="125" y="1905" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t_UXIdDq_0gDYaZlW1lV-141" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25" y="1790" as="sourcePoint" />
+            <mxPoint x="25" y="1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="25" y="1790" />
+              <mxPoint x="-25" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1952" as="geometry" />
         </mxCell>
