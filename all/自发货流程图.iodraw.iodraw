@@ -169,7 +169,7 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-81" value="拆分订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="-280" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-84" value="自发货订单处理完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g6O2K_M05xZptBjHuyps-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
