@@ -10,8 +10,11 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-2" value="面单（仓配分离）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-3" value="建立 SKU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="100" height="38" as="geometry" />
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-3" value="买家下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AGnzYReZdCrBEeJmJH8n-3" target="AGnzYReZdCrBEeJmJH8n-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
