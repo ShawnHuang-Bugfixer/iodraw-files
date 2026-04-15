@@ -40,11 +40,17 @@
         <mxCell id="vNTWcaOld4Z51nzIxTIw-7" value="平台打包出库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="520" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="vNTWcaOld4Z51nzIxTIw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNTWcaOld4Z51nzIxTIw-8" target="vNTWcaOld4Z51nzIxTIw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vNTWcaOld4Z51nzIxTIw-8" value="平台安排物流配送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vNTWcaOld4Z51nzIxTIw-11" value="订单发货结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="680" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vNTWcaOld4Z51nzIxTIw-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
