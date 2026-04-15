@@ -41,7 +41,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-18">
+        <mxCell id="g6O2K_M05xZptBjHuyps-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-18" target="g6O2K_M05xZptBjHuyps-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="-300" as="targetPoint" />
           </mxGeometry>
@@ -57,8 +57,8 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-19" value="订单 : 包裹单&lt;div&gt;1 : n&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="170" y="-500" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-29" value="待处理订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-450" width="100" height="38" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-29" value="人工审单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-300" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
