@@ -23,10 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;积加中台多平台订单管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-480" width="100" height="38" as="geometry" />
+          <mxGeometry x="350" y="-520" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-13" value="待处理订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-400" width="100" height="38" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-13" value="待处理订单（1个订单对应 n 包裹单）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-460" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="g6O2K_M05xZptBjHuyps-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-400" width="80" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
