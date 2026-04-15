@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-43" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-280" width="60" height="20" as="geometry" />
+          <mxGeometry x="320" y="-280" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-45" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390.48" y="288" width="60" height="30" as="geometry" />
