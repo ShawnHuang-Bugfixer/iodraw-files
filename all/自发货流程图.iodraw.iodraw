@@ -128,9 +128,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-65" target="g6O2K_M05xZptBjHuyps-60">
+        <mxCell id="g6O2K_M05xZptBjHuyps-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="g6O2K_M05xZptBjHuyps-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-362" as="sourcePoint" />
+            <mxPoint x="400" y="-242" as="sourcePoint" />
             <mxPoint x="410" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -143,8 +143,10 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-60" value="有未发货包裹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="-130" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-63" target="g6O2K_M05xZptBjHuyps-65">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-63" value="人工审单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-340" width="100" height="38" as="geometry" />
@@ -155,11 +157,10 @@
             <mxPoint x="400" y="-340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-65" target="g6O2K_M05xZptBjHuyps-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-65" value="拆分订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-280" width="80" height="38" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="g6O2K_M05xZptBjHuyps-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-261" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-72" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380.48" y="-78" width="60" height="30" as="geometry" />
@@ -169,6 +170,9 @@
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-80" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300.48" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6O2K_M05xZptBjHuyps-81" value="拆分订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-290" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
