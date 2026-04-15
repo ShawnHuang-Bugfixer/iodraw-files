@@ -118,6 +118,9 @@
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-36" value="确认入库海狼 ERP（入库量等）" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="90" y="1620" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2wPNDtE-oupXy5Ik45Ez-5" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+          <mxGeometry x="90" y="1470" width="100" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1870" as="geometry" />
         </mxCell>
@@ -210,9 +213,6 @@
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-107" value="同步海外仓入库单" style="rounded=0;whiteSpace=wrap;html=1;" parent="t_UXIdDq_0gDYaZlW1lV-91" vertex="1">
           <mxGeometry x="90" y="1430" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="2wPNDtE-oupXy5Ik45Ez-5" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;" parent="t_UXIdDq_0gDYaZlW1lV-91" vertex="1">
-          <mxGeometry x="90" y="1510" width="100" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-141" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-139" target="t_UXIdDq_0gDYaZlW1lV-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1920" as="sourcePoint" />
@@ -275,9 +275,6 @@
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-99" target="t_UXIdDq_0gDYaZlW1lV-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OeIrW5mYUfOqZH1RLwlc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t_UXIdDq_0gDYaZlW1lV-107" target="OeIrW5mYUfOqZH1RLwlc-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-40" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;" parent="1" source="OeIrW5mYUfOqZH1RLwlc-39" target="OeIrW5mYUfOqZH1RLwlc-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430.0800000000004" y="1122" as="sourcePoint" />
@@ -287,6 +284,9 @@
               <mxPoint x="500" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FoqoIK0jK4OgyP-EBbqD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_UXIdDq_0gDYaZlW1lV-107" target="2wPNDtE-oupXy5Ik45Ez-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
