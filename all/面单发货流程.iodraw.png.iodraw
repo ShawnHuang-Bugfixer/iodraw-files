@@ -20,27 +20,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-3" value="买家下单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="180" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="267" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-5" target="AGnzYReZdCrBEeJmJH8n-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-5" value="平台匹配发货仓" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="250" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="337" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-6" target="AGnzYReZdCrBEeJmJH8n-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-6" value="平台计算物流方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="320" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="407" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-7" target="g19a4FdGRB8BCmB0N5wd-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="460" as="targetPoint" />
+            <mxPoint x="240" y="547" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-7" value="平台生成面单(记录物流配送信息)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="390" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="477" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="AGnzYReZdCrBEeJmJH8n-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -57,7 +57,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g19a4FdGRB8BCmB0N5wd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="460" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="547" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="g19a4FdGRB8BCmB0N5wd-3" value="卖家在店铺配置仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
