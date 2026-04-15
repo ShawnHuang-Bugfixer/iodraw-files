@@ -13,6 +13,12 @@
         <mxCell id="vNTWcaOld4Z51nzIxTIw-4" value="仓库上架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="vNTWcaOld4Z51nzIxTIw-5" value="买家下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vNTWcaOld4Z51nzIxTIw-6" value="买家下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="100" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
