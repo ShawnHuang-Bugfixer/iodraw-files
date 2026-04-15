@@ -61,8 +61,8 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-19" value="订单已发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="670" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-22" value="面单（仓配分离）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="314" y="80" width="100" height="40" as="geometry" />
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-22" value="面单（仓配分离）&lt;div&gt;发货结束&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
