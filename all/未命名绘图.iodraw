@@ -109,7 +109,7 @@
           <mxGeometry x="350" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-50" value="计算尾程费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10" width="100" height="38" as="geometry" />
+          <mxGeometry x="510" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
