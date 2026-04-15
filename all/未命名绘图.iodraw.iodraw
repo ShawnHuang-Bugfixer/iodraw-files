@@ -52,11 +52,17 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-15" value="贴面单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="100" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGnzYReZdCrBEeJmJH8n-17" target="AGnzYReZdCrBEeJmJH8n-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-17" value="仓库物流发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-19" value="运输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="670" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-21" value="运输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
