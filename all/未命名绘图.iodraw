@@ -65,12 +65,12 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-34" value="待支付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-460" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-38" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-19" target="g6O2K_M05xZptBjHuyps-13">
+        <mxCell id="g6O2K_M05xZptBjHuyps-38" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-19" target="g6O2K_M05xZptBjHuyps-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280.0800000000004" y="-368" as="sourcePoint" />
             <mxPoint x="399.0800000000004" y="-379" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="334.0800000000004" y="-360" />
+              <mxPoint x="284" y="-370" />
               <mxPoint x="284.0800000000004" y="-410" />
             </Array>
           </mxGeometry>
