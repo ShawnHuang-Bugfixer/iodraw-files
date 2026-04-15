@@ -19,7 +19,7 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-10" value="多平台发起订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-580" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-12" target="g6O2K_M05xZptBjHuyps-13">
+        <mxCell id="g6O2K_M05xZptBjHuyps-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-12" target="g6O2K_M05xZptBjHuyps-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;积加中台多平台订单管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-32" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="-210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6O2K_M05xZptBjHuyps-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-34" target="g6O2K_M05xZptBjHuyps-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-34" value="待支付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-450" width="100" height="38" as="geometry" />
