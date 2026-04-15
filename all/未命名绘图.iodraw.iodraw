@@ -52,7 +52,7 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-15" value="贴面单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-17" value="贴面单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-17" value="仓库物流发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
