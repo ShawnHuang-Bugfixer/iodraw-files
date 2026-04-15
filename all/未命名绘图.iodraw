@@ -43,7 +43,12 @@
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-250" as="targetPoint" />
+            <mxPoint x="400" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6O2K_M05xZptBjHuyps-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g6O2K_M05xZptBjHuyps-25">
+          <mxGeometry x="-0.6906" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-18" value="包裹单命&lt;span style=&quot;background-color: initial;&quot;&gt;中&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;自动发货规则&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,9 +56,6 @@
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-19" value="订单 : 包裹单&lt;div&gt;1 : n&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="170" y="-500" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
