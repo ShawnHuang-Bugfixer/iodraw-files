@@ -95,34 +95,27 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-53" value="仓库出库（包裹已出库）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="302" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-55" target="g6O2K_M05xZptBjHuyps-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="401" />
-              <mxPoint x="520" y="-150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-55" value="包裹已出库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="382" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-58" value="记录：&lt;div&gt;- 发货单号&lt;/div&gt;&lt;div&gt;- 跟踪单号&lt;/div&gt;&lt;div&gt;- 物流方式&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="560" y="262" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="g6O2K_M05xZptBjHuyps-60" edge="1">
+        <mxCell id="g6O2K_M05xZptBjHuyps-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="-220" as="sourcePoint" />
-            <mxPoint x="410" y="70" as="targetPoint" />
+            <mxPoint x="400" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-60" target="g6O2K_M05xZptBjHuyps-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="g6O2K_M05xZptBjHuyps-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-60" target="g6O2K_M05xZptBjHuyps-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-60" value="有未发货包裹" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="-180" width="110" height="60" as="geometry" />
+        <mxCell id="g6O2K_M05xZptBjHuyps-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="g6O2K_M05xZptBjHuyps-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="-150" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-63" edge="1">
           <mxGeometry relative="1" as="geometry">
