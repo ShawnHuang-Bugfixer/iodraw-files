@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-112" value="刊登商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
-          <mxGeometry x="90" y="1672" width="100" height="38" as="geometry" />
+          <mxGeometry x="90" y="1680" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="t_UXIdDq_0gDYaZlW1lV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="t_UXIdDq_0gDYaZlW1lV-114" target="t_UXIdDq_0gDYaZlW1lV-117" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -118,10 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OeIrW5mYUfOqZH1RLwlc-36" value="确认入库海狼 ERP（入库量等）" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
-          <mxGeometry x="90" y="1610" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FoqoIK0jK4OgyP-EBbqD-9" value="出运清单同步 ERP入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="90" y="1430" width="100" height="38" as="geometry" />
+          <mxGeometry x="90" y="1620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4" value="采购" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="130" width="280" height="1870" as="geometry" />
