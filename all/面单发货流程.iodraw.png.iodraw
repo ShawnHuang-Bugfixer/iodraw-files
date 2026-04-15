@@ -34,17 +34,18 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-6" value="平台计算物流方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="320" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-7" target="AGnzYReZdCrBEeJmJH8n-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-7" value="生成面单(记录物流配送信息)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="400" width="100" height="38" as="geometry" />
+          <mxGeometry x="190" y="390" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-13" target="AGnzYReZdCrBEeJmJH8n-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-13" value="卖家？拣货、打包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="460" width="100" height="38" as="geometry" />
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="AGnzYReZdCrBEeJmJH8n-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="498" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-15" target="AGnzYReZdCrBEeJmJH8n-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
