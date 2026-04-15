@@ -19,7 +19,7 @@
         <mxCell id="AGnzYReZdCrBEeJmJH8n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-3" target="AGnzYReZdCrBEeJmJH8n-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AGnzYReZdCrBEeJmJH8n-3" value="买家下单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AGnzYReZdCrBEeJmJH8n-3" value="卖家下单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="267" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AGnzYReZdCrBEeJmJH8n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AGnzYReZdCrBEeJmJH8n-5" target="AGnzYReZdCrBEeJmJH8n-6" edge="1">
