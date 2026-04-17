@@ -44,7 +44,7 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-19" value="订单 : 包裹单&lt;div&gt;1 : n&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="220" y="-462" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-29" target="g6O2K_M05xZptBjHuyps-39" edge="1">
+        <mxCell id="RPXrJOHkA1XtWL86TKvu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6O2K_M05xZptBjHuyps-29" target="g6O2K_M05xZptBjHuyps-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-29" value="人工发货" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -62,14 +62,6 @@
               <mxPoint x="320" y="-410" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-39" target="g6O2K_M05xZptBjHuyps-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="312" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g6O2K_M05xZptBjHuyps-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-150" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-49" target="g6O2K_M05xZptBjHuyps-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
