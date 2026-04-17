@@ -100,7 +100,7 @@
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-26" value="推送平台，标记包裹已发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-27" value="自发货开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-27" value="面单发货结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZSWtrgkX3k4L1Bygl9RY-26" target="ZSWtrgkX3k4L1Bygl9RY-27">
