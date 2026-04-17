@@ -67,8 +67,8 @@
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-34" value="建立包裹单和面单映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-400" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-36" value="记录：&lt;div&gt;- 发货单号&lt;/div&gt;&lt;div&gt;- 跟踪单号&lt;/div&gt;&lt;div&gt;- 物流方式&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-290" width="80" height="100" as="geometry" />
+        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-37" value="记录：&lt;div&gt;- 发货单号&lt;/div&gt;&lt;div&gt;- 跟踪单号&lt;/div&gt;&lt;div&gt;- 物流方式&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-551" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
