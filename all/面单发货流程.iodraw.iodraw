@@ -24,11 +24,6 @@
             <mxPoint x="400" y="-422" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZSWtrgkX3k4L1Bygl9RY-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-122" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZSWtrgkX3k4L1Bygl9RY-20" target="ZSWtrgkX3k4L1Bygl9RY-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -65,6 +60,9 @@
         </mxCell>
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-32" value="申请面单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-460" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSWtrgkX3k4L1Bygl9RY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZSWtrgkX3k4L1Bygl9RY-34" target="ZSWtrgkX3k4L1Bygl9RY-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSWtrgkX3k4L1Bygl9RY-34" value="建立包裹单和面单映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-400" width="100" height="38" as="geometry" />
