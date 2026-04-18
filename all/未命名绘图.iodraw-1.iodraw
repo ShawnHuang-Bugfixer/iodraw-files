@@ -77,10 +77,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="760" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-7" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="1000" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-8" value="展厅、私人、团队工作空间管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-30" y="240" width="30" height="230" as="geometry" />
@@ -128,16 +128,16 @@
           <mxGeometry x="670" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-39" value="审核状态机管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="720" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-40" value="AI 机审通道管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="790" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="770" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-41" value="人工复审通道管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="820" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-42" value="申诉机制管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="890" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="870" y="240" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
