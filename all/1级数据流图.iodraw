@@ -93,7 +93,7 @@
           <mxGeometry x="340" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z2MI-310f9SRjB3oGuJ_-32" value="超分任务数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
