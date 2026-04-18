@@ -115,11 +115,11 @@
         <mxCell id="w15YUbweOaP4F861VIEV-34" value="多类型消息管理（审核消息、超分消息）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="690" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-39" value="审核状态管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="w15YUbweOaP4F861VIEV-39" value="审核状态机管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="740" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-40" value="审核状态管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="750" y="250" width="30" height="230" as="geometry" />
+          <mxGeometry x="850" y="250" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
