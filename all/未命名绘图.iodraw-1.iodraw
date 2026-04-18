@@ -26,10 +26,10 @@
           <mxGeometry x="827" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-8" value="展厅、私人、团队工作空间管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="-50" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-9" value="空间成员管理与授权控制" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="30" height="230" as="geometry" />
+          <mxGeometry x="20" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-10" value="空间隔离的图像管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="30" height="230" as="geometry" />
