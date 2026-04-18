@@ -38,10 +38,13 @@
         <mxCell id="Z2MI-310f9SRjB3oGuJ_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z2MI-310f9SRjB3oGuJ_-2" target="Z2MI-310f9SRjB3oGuJ_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z2MI-310f9SRjB3oGuJ_-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z2MI-310f9SRjB3oGuJ_-18">
+        <mxCell id="Z2MI-310f9SRjB3oGuJ_-19" value="任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z2MI-310f9SRjB3oGuJ_-18">
           <mxGeometry x="-0.174" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z2MI-310f9SRjB3oGuJ_-20" value="资源处理与任务提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
