@@ -20,7 +20,10 @@
           <mxGeometry x="230" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ta9eYZGi08Uq-cUjnTxC-7" value="账户安全控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="400" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta9eYZGi08Uq-cUjnTxC-8" value="用户登出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
