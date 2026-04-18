@@ -25,7 +25,7 @@
         <mxCell id="Ta9eYZGi08Uq-cUjnTxC-8" value="修改资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ta9eYZGi08Uq-cUjnTxC-9" value="修改资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ta9eYZGi08Uq-cUjnTxC-9" value="刷新登录态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
