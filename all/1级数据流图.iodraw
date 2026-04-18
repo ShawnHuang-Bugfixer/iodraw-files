@@ -51,6 +51,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z2MI-310f9SRjB3oGuJ_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z2MI-310f9SRjB3oGuJ_-20" target="Z2MI-310f9SRjB3oGuJ_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2MI-310f9SRjB3oGuJ_-28" value="待处理任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z2MI-310f9SRjB3oGuJ_-27">
+          <mxGeometry x="0.2094" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z2MI-310f9SRjB3oGuJ_-20" value="资源处理与任务提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="564.5" width="120" height="40" as="geometry" />
         </mxCell>
