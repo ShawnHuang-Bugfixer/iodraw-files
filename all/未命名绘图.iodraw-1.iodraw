@@ -64,7 +64,7 @@
         <mxCell id="w15YUbweOaP4F861VIEV-16" value="图像上传与存储" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-17" value="图像基础处理（压缩等）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="w15YUbweOaP4F861VIEV-17" value="图像基础处理（裁剪、旋转）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-18" value="图像协作处理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
