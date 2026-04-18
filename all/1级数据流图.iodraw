@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="Z2MI-310f9SRjB3oGuJ_-26" value="任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z2MI-310f9SRjB3oGuJ_-25">
           <mxGeometry x="-0.162" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z2MI-310f9SRjB3oGuJ_-5" value="Python 推理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
