@@ -28,8 +28,8 @@
         <mxCell id="w15YUbweOaP4F861VIEV-8" value="展厅、私人、团队工作空间管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-10" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-9" value="展厅、私人、团队工作空间管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry y="250" width="30" height="230" as="geometry" />
+        <mxCell id="w15YUbweOaP4F861VIEV-9" value="团队" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
