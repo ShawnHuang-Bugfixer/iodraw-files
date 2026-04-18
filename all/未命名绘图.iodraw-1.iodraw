@@ -118,7 +118,7 @@
         <mxCell id="w15YUbweOaP4F861VIEV-39" value="审核状态机管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="740" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-40" value="AI 机审管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="w15YUbweOaP4F861VIEV-40" value="AI 机审通道管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="790" y="240" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-41" value="人工复审通道" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
