@@ -31,8 +31,11 @@
         <mxCell id="w15YUbweOaP4F861VIEV-9" value="空间成员管理与权限控制" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-10" value="空间成员管理与权限控制" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="50" y="250" width="30" height="230" as="geometry" />
+        <mxCell id="w15YUbweOaP4F861VIEV-10" value="空间隔离的图像管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w15YUbweOaP4F861VIEV-11" value="空间隔离的图像管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
