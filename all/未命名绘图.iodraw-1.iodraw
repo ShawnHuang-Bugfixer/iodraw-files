@@ -58,8 +58,8 @@
         <mxCell id="w15YUbweOaP4F861VIEV-18" value="图像协作处理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="w15YUbweOaP4F861VIEV-19" value="图像协作处理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="30" height="230" as="geometry" />
+        <mxCell id="w15YUbweOaP4F861VIEV-19" value="图像版本控制" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
