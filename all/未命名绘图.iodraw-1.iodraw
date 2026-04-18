@@ -19,6 +19,12 @@
         <mxCell id="w15YUbweOaP4F861VIEV-5" value="消息推送模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="w15YUbweOaP4F861VIEV-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w15YUbweOaP4F861VIEV-7" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
