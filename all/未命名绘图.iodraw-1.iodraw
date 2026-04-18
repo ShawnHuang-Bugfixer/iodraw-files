@@ -28,14 +28,20 @@
         <mxCell id="w15YUbweOaP4F861VIEV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w15YUbweOaP4F861VIEV-3" target="w15YUbweOaP4F861VIEV-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w15YUbweOaP4F861VIEV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w15YUbweOaP4F861VIEV-3" target="w15YUbweOaP4F861VIEV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w15YUbweOaP4F861VIEV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w15YUbweOaP4F861VIEV-3" target="w15YUbweOaP4F861VIEV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-3" value="媒体管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-4" value="超分处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-5" value="消息推送模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w15YUbweOaP4F861VIEV-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="100" height="40" as="geometry" />
