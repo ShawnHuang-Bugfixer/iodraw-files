@@ -24,9 +24,6 @@
         <mxCell id="g6O2K_M05xZptBjHuyps-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;匹配 ERP SKU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="-460" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="RI-cLEpkAnnRS6rdirBS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g6O2K_M05xZptBjHuyps-13" target="g6O2K_M05xZptBjHuyps-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g6O2K_M05xZptBjHuyps-13" value="生成系统订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="-400" width="100" height="38" as="geometry" />
         </mxCell>
@@ -112,8 +109,8 @@
         <mxCell id="RPXrJOHkA1XtWL86TKvu-8" value="自动发货" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="-110" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="kuq6-P3bfhuwmIzAFOAr-1" value="生成系统订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-390" width="100" height="38" as="geometry" />
+        <mxCell id="kuq6-P3bfhuwmIzAFOAr-1" value="生成包裹单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-320" width="100" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
